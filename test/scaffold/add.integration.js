@@ -94,8 +94,8 @@ describe('#add', function() {
       var callCount = 0;
       var oldPackage = {
         dependencies: {
-          'bitcore-lib-gobyte': '^v0.13.17',
-          'bitcore-node-gobyte': '^v0.2.0'
+            'bitcore-lib-gobyte': 'gobytecoin/bitcore-lib-gobyte',
+			'bitcore-node-gobyte': 'gobytecoin/bitcore-node-gobyte'
         }
       };
       var spawn = sinon.stub().returns({
