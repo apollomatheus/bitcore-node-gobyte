@@ -1,5 +1,5 @@
 {
-  "name": "@gobytecoin/bitcore-node",
+  "name": "bitcore-node-gobyte",
   "description": "Full node with extended capabilities using Bitcore and GoByte Core",
   "author": "BitPay <dev@bitpay.com>",
   "version": "3.0.6",
