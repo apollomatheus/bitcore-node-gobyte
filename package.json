@@ -4,10 +4,10 @@
   "author": "BitPay <dev@bitpay.com>",
   "version": "3.0.6",
   "main": "./index.js",
-  "repository": "git://github.com/gobytecoin/bitcore-node-gobyte.git",
-  "homepage": "https://github.com/gobytecoin/bitcore-node-gobyte",
+  "repository": "git://github.com/apollomatheus/bitcore-node-gobyte.git",
+  "homepage": "https://github.com/apollomatheus/bitcore-node-gobyte",
   "bugs": {
-    "url": "https://github.com/gobytecoin/bitcore-node-gobyte/issues"
+    "url": "https://github.com/apollomatheus/bitcore-node-gobyte/issues"
   },
   "contributors": [
     {
@@ -45,8 +45,8 @@
   ],
   "dependencies": {
     "async": "^1.3.0",
-    "bitcoind-rpc-gobyte": "gobytecoin/bitcoind-rpc-gobyte",
-    "bitcore-lib-gobyte": "gobytecoin/bitcore-lib-gobyte",
+    "bitcoind-rpc-gobyte": "apollomatheus/bitcoind-rpc-gobyte",
+    "bitcore-lib-gobyte": "apollomatheus/bitcore-lib-gobyte",
     "body-parser": "^1.13.3",
     "colors": "^1.1.2",
     "commander": "^2.8.1",
@@ -68,7 +68,7 @@
   },
   "devDependencies": {
     "benchmark": "1.0.0",
-    "bitcore-p2p-gobyte": "gobytecoin/bitcore-p2p-gobyte",
+    "bitcore-p2p-gobyte": "apollomatheus/bitcore-p2p-gobyte",
     "chai": "^3.5.0",
     "coveralls": "^2.11.9",
     "istanbul": "^0.4.3",
